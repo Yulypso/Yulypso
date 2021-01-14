@@ -27,8 +27,8 @@
 <img align='right' width="350" height="512" src="./pictures/stats.gif" />
 
 <div float='left'>
-    <img align='left' width='450' src="https://github-readme-stats.vercel.app/api?username=yulypso&count_private=true&theme=tokyonight&layout=compact&show_icons=true" />
-    <img align='left' width='450' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yulypso&langs_count=10&theme=tokyonight&layout=compact" />
+    <img align='left' width='450' src="https://github-readme-stats.vercel.app/api?username=yulypso&count_private=true&theme=tokyonight&layout=compact&show_icons=true&custom_title=Yulypso's GitHub Stats"/>
+    <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yulypso&langs_count=10&theme=tokyonight&layout=compact&card_width=400&custom_title=Yulypso's Most Used Languages" />
 </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
