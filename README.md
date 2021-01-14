@@ -18,7 +18,7 @@
 ### 📫 How to reach me: ...
 
 <p align='left'>
-    <img align='center' width="40" height="40" src="./pictures/outlook.png" />
+    <img align='center' width="20" height="20" src="./pictures/outlook.png" />
         : khamphousone.thierry@outlook.fr
 <p/>
 
