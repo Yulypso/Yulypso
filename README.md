@@ -11,9 +11,12 @@
 - __OpenSec Risk Manager__: Development of an open source product dedicated to cybersecurity risk management meeting ANSSI requirements by the 5 EBIOS label workshops with the aim of facilitating risk analysis on CISO projects
 - __Bitmap processing tool__: Development of an image processing tool in order to process images (enlarge, shrink, grayscale, border detection, blur and so on)
   
+<br>
+
 ### 🌱 I’m currently learning...
 - __Machine learning__
 - __Kubernetes__
+<br>
 
 ### 📫 How to reach me: ...
 
@@ -21,6 +24,8 @@
     <img align='center' width="20" height="20" src="./pictures/outlook.png" />
         : khamphousone.thierry@outlook.fr
 <p/>
+
+<br>
 
 ### GitHub Stats
 
@@ -30,7 +35,8 @@
     <img align='left' width='450' src="https://github-readme-stats.vercel.app/api?username=yulypso&count_private=true&theme=tokyonight&layout=compact&show_icons=true&custom_title=Yulypso's GitHub Stats"/>
     <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yulypso&langs_count=10&theme=tokyonight&layout=compact&card_width=400&custom_title=Yulypso's Most Used Languages" />
 </div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Visitors counter
 
