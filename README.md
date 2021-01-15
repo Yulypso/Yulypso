@@ -16,6 +16,7 @@
 ### 🌱 I’m currently learning...
 - __Machine learning__
 - __Kubernetes__
+- __Typescript Api RESTful__
 <br>
 
 ### 📫 How to reach me: ...
