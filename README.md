@@ -9,14 +9,21 @@
 
 ### 🔭 Projects I’m currently working on...
 - __OpenSec Risk Manager__: Development of an open source product dedicated to cybersecurity risk management meeting ANSSI requirements by the 5 EBIOS label workshops with the aim of facilitating risk analysis on CISO projects
-- __Bitmap processing tool__: Development of an image processing tool in order to process images (enlarge, shrink, grayscale, border detection, blur and so on)
-- __Typescript Api RESTful__
+-__RealEmbeddedPandaTime__: FreeRTOS development (Real Time Operating System) with STM32F4 Card, multithreaded programming
 
 <br>
 
 ### 🌱 I’m currently learning...
 - __Machine learning__
 - __Kubernetes__
+
+<br>
+
+### 😄 Recent achievements & projects done...
+- __[10-01-2021] MOOC Coursera - Machine Learning, Stanford University__
+- __[18-01-2021] Bitmap processing tool__: Development of an image processing tool in order to process images (enlarge, shrink, grayscale, border detection, blur and so on)
+- __[17-01-2021] Typescript Api RESTful__: Development of an Api RESTFul with Typescript language programming
+
 <br>
 
 ### 📫 How to reach me: ...
