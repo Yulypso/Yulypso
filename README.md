@@ -23,6 +23,7 @@
 - __[10-01-2021] MOOC Coursera - Machine Learning, Stanford University__
 - __[18-01-2021] Bitmap processing tool__: Development of an image processing tool in order to process images (enlarge, shrink, grayscale, border detection, blur and so on)
 - __[17-01-2021] Typescript Api RESTful__: Development of an Api RESTFul with Typescript language programming
+- __[21-01-2021] Freelance : Malt Full-stack developper
 
 <br>
 
