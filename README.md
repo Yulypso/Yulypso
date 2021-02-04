@@ -32,8 +32,9 @@
 
 <p align='left'>
     <img align='center' width="20" height="20" src="./pictures/outlook.png" />
-        : khamphousone.thierry@outlook.fr
+        : <a href='mailto:khamphousone.thierry@outlook.fr?subject=GitHub:%20information%20request'>khamphousone.thierry@outlook.fr</a>
 <p/>
+
 <p align='left'>
     <img align='center' width="20" height="20" src="./pictures/malt.png" />
         : 
