@@ -17,6 +17,7 @@
 ### 🌱 I’m currently learning...
 - __Machine learning__
 - __Kubernetes__
+- __Root-me challenges__
 
 <br>
 
