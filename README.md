@@ -17,7 +17,7 @@
 ### 🌱 I’m currently learning...
 - __Machine learning__
 - __Kubernetes__
-- __Root-me challenges__
+- __[Root-me challenges](https://www.root-me.org/Yulypso?lang=fr#c478dc536a61adc434aacf8f990eb301)__ 
 
 <br>
 
