@@ -11,6 +11,8 @@
 - __OpenSec Risk Manager__: Development of an open source product dedicated to cybersecurity risk management meeting ANSSI requirements by the 5 EBIOS label workshops with the aim of facilitating risk analysis on CISO projects
 - __RealEmbeddedPandaTime__: FreeRTOS development (Real Time Operating System) with STM32F4 Card, multithreaded programming 
 - __Neural Network__: With Scikit learn
+- __Image Analysis__: Image processing and machine learning in order to recognise some fruits 🍎 🍓 🍌 
+- __Emotion Recognition__: Machine learning, the goal is to recognise human emotion
 
 <br>
 
