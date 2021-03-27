@@ -10,8 +10,7 @@
 ### 🔭 Projects I’m currently working on...
 - __OpenSec Risk Manager__: Development of an open source product dedicated to cybersecurity risk management meeting ANSSI requirements by the 5 EBIOS label workshops with the aim of facilitating risk analysis on CISO projects
 - __RealEmbeddedPandaTime__: FreeRTOS development (Real Time Operating System) with STM32F4 Card, multithreaded programming 
-- __Image Analysis__: Image processing and machine learning in order to recognise some fruits 🍎 🍓 🍌 
-- __DEFNET 2021__
+
 
 <br>
 
@@ -29,6 +28,8 @@
 - __[21-01-2021] Freelance__ : Malt Full-stack developper
 - __[03-03-2021] Neural Network__: With Scikit learn
 - __[12-03-2021] Emotion Recognition__: Machine learning, the goal is to recognise human emotion through facial emotion images
+- __[20-03-2021] Image Analysis__: Image processing and machine learning in order to recognise some fruits 🍎 🍓 🍌 
+- __[22-03-2021] DEFNET 2021__: Cybersecurity challenge, Forensic tasks
 
 <br>
 
