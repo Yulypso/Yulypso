@@ -8,8 +8,7 @@
 [![GitHub Thierry Khamphousone](https://img.shields.io/github/followers/yulypso?label=follow&style=social)](https://github.com/Yulypso)
 
 ### 🔭 Projects I’m currently working on...
-- __OpenSec Risk Manager__: Development of an open source product dedicated to cybersecurity risk management meeting ANSSI requirements by the 5 EBIOS label workshops with the aim of facilitating risk analysis on CISO projects
-- __RealEmbeddedPandaTime__: FreeRTOS development (Real Time Operating System) with STM32F4 Card, multithreaded programming 
+- __Atos Instrumentation Kubernetes__: Trainee as Designer-Developer at Atos France
 
 
 <br>
@@ -30,6 +29,8 @@
 - __[12-03-2021] Emotion Recognition__: Machine learning, the goal is to recognise human emotion through facial emotion images
 - __[20-03-2021] Image Analysis__: Image processing and machine learning in order to recognise some fruits 🍎 🍓 🍌 
 - __[22-03-2021] DEFNET 2021__: Cybersecurity challenge, Forensic tasks
+- __[30-03-2021] RealEmbeddedPandaTime__: FreeRTOS development (Real Time Operating System) with STM32F4 Card, multithreaded programming 
+- __[02-04-2021] OpenSec Risk Manager__: Development of an open source product dedicated to cybersecurity risk management meeting ANSSI requirements by the 5 EBIOS label workshops with the aim of facilitating risk analysis on CISO projects
 
 <br>
 
