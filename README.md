@@ -31,6 +31,10 @@
 - __[22-03-2021] DEFNET 2021__: Cybersecurity challenge, Forensic tasks
 - __[30-03-2021] RealEmbeddedPandaTime__: FreeRTOS development (Real Time Operating System) with STM32F4 Card, multithreaded programming 
 - __[02-04-2021] OpenSec Risk Manager__: Development of an open source product dedicated to cybersecurity risk management meeting ANSSI requirements by the 5 EBIOS label workshops with the aim of facilitating risk analysis on CISO projects
+    - __laureat:__ 
+        - __best production🥇__
+        - __best presentation🥇__
+        - __mentors' prize🥇__
 
 <br>
 
