@@ -8,13 +8,13 @@
 [![GitHub Thierry Khamphousone](https://img.shields.io/github/followers/yulypso?label=follow&style=social)](https://github.com/Yulypso)
 
 ### 🔭 Projects I’m currently working on...
-- __Atos Instrumentation Kubernetes__: Trainee as Designer-Developer at Atos France
+- __PlateformeAuto__: Associate collaborator as Full-Stack Developer with Artifex System
+- __Atos Instrumentation Kubernetes__: Trainee as Designer-Developer at Atos France, Alien4Cloud project
 
 
 <br>
 
 ### 🌱 I’m currently learning...
-- __Machine learning__
 - __Kubernetes__
 - __[Root-me challenges](https://www.root-me.org/Yulypso?lang=fr#c478dc536a61adc434aacf8f990eb301)__ 
 
