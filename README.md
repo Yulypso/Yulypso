@@ -11,14 +11,20 @@
 - __PlateformeAuto__: Associate collaborator as Full-Stack Developer with Artifex System
 - __Atos Instrumentation Kubernetes__: Trainee as Designer-Developer at Atos France, Alien4Cloud project
 
+<br/>
 
-<br>
+### 💻 Challenges - CTF
+- __[22-03-2021] DEFNET 2021__: Cybersecurity challenge, Forensic tasks
+- __[23-04-2021 → 25-04-2021] HeroCTF V3__: Blockchain, Crypto, Forensics, Misc, OSINT, Prog, Pwn, Reverse, Steganography, System, Web
+- __[12-05-2021 → 23-06-2021] WaveGame - WaveStone__: 4 challenges
+
+<br/>
 
 ### 🌱 I’m currently learning...
 - __Kubernetes__
 - __[Root-me challenges](https://www.root-me.org/Yulypso?lang=fr#c478dc536a61adc434aacf8f990eb301) 1145 points__ 
 
-<br>
+<br/>
 
 ### 😄 Recent achievements & projects done...
 - __[10-01-2021] MOOC Coursera - Machine Learning, Stanford University__
@@ -28,7 +34,6 @@
 - __[03-03-2021] Neural Network__: With Scikit learn
 - __[12-03-2021] Emotion Recognition__: Machine learning, the goal is to recognise human emotion through facial emotion images
 - __[20-03-2021] Image Analysis__: Image processing and machine learning in order to recognise some fruits 🍎 🍓 🍌 
-- __[22-03-2021] DEFNET 2021__: Cybersecurity challenge, Forensic tasks
 - __[30-03-2021] RealEmbeddedPandaTime__: FreeRTOS development (Real Time Operating System) with STM32F4 Card, multithreaded programming 
 - __[02-04-2021] OpenSec Risk Manager__: Development of an open source product dedicated to cybersecurity risk management meeting ANSSI requirements by the 5 EBIOS label workshops with the aim of facilitating risk analysis on CISO projects
     - __laureat:__ 
@@ -36,7 +41,7 @@
         - __best presentation🥇__
         - __mentors' prize🥇__
 
-<br>
+<br/>
 
 ### 📫 How to reach me: ...
 
@@ -51,7 +56,7 @@
         <a href='https://www.malt.fr/profile/thierrykhamphousone'>Full-stack developper profile</a>
 <p/>
 
-<br>
+<br/>
 
 ### GitHub Stats
 
