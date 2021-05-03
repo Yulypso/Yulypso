@@ -7,7 +7,23 @@
 [![Linkedin: Thierry Khamphousone](https://img.shields.io/badge/-Thierry_Khamphousone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tkhamphousone/)](https://www.linkedin.com/in/tkhamphousone)
 [![GitHub Thierry Khamphousone](https://img.shields.io/github/followers/yulypso?label=follow&style=social)](https://github.com/Yulypso)
 
-### 🔭 Projects I’m currently working on...
+### 📫 How to reach me
+
+<p align='left'>
+    <img align='center' width="20" height="20" src="./pictures/outlook.png" />
+        : 
+        <a href='mailto:khamphousone.thierry@outlook.fr?subject=GitHub:%20information%20request'>khamphousone.thierry@outlook.fr</a>
+<p/>
+
+<p align='left'>
+    <img align='center' width="20" height="20" src="./pictures/malt.png" />
+        : 
+        <a href='https://www.malt.fr/profile/thierrykhamphousone'>Full-stack developper profile</a>
+<p/>
+
+<br/>
+
+### 🔭 Projects I’m currently working on
 - __PlateformeAuto__: Associate collaborator as Full-Stack Developer with Artifex System
 - __Atos Instrumentation Kubernetes__: Trainee as Designer-Developer at Atos France, Alien4Cloud project
 
@@ -20,14 +36,14 @@
 
 <br/>
 
-### 🌱 I’m currently learning...
+### 🌱 I’m currently learning
 - __Kubernetes__
 - __Golang__
 - __[Root-me challenges](https://www.root-me.org/Yulypso?lang=fr#c478dc536a61adc434aacf8f990eb301) 1145 points__ 
 
 <br/>
 
-### 😄 Recent achievements & projects done...
+### 😄 Recent achievements & projects done
 - __[10-01-2021] MOOC Coursera - Machine Learning, Stanford University__
 - __[18-01-2021] Bitmap processing tool__: Development of an image processing tool in order to process images (enlarge, shrink, grayscale, border detection, blur and so on)
 - __[17-01-2021] Typescript Api RESTful__: Development of an Api RESTFul with Typescript language programming
@@ -41,21 +57,6 @@
         - __best production🥇__
         - __best presentation🥇__
         - __mentors' prize🥇__
-
-<br/>
-
-### 📫 How to reach me: ...
-
-<p align='left'>
-    <img align='center' width="20" height="20" src="./pictures/outlook.png" />
-        : <a href='mailto:khamphousone.thierry@outlook.fr?subject=GitHub:%20information%20request'>khamphousone.thierry@outlook.fr</a>
-<p/>
-
-<p align='left'>
-    <img align='center' width="20" height="20" src="./pictures/malt.png" />
-        : 
-        <a href='https://www.malt.fr/profile/thierrykhamphousone'>Full-stack developper profile</a>
-<p/>
 
 <br/>
 
