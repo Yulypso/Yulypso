@@ -30,9 +30,10 @@
 <br/>
 
 ### 💻 Challenges - CTF
-- __[22-03-2021] DEFNET 2021__: Cybersecurity challenge, Forensic tasks ✅ __90% Completed__
+- __[12-05-2021 → 23-06-2021] WaveGame - WaveStone__: Pentest, Forensic ⏳ __2/4 challenges Completed, Team Rank: 11/39__
 - __[23-04-2021 → 25-04-2021] HeroCTF V3__: Blockchain, Crypto, Forensics, Misc, OSINT, Prog, Pwn, Reverse, Steganography, System, Web ✅ __Team Rank: 97/645__
-- __[12-05-2021 → 23-06-2021] WaveGame - WaveStone__: Pentest, Forensic ⏳ __2/4 challenges Completed__
+- __[22-03-2021] DEFNET 2021__: Cybersecurity challenge, Forensic tasks ✅ __90% Completed__
+
 
 <br/>
 
