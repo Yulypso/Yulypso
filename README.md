@@ -38,7 +38,7 @@
 <br/>
 
 ### 🌱 I’m currently learning
-- __MOOC ANSSI, SecNumAcademie
+- __MOOC ANSSI__ SecNumAcademie
 - __Kubernetes__
 - __Golang__
 - __[Root-me challenges](https://www.root-me.org/Yulypso?lang=fr#c478dc536a61adc434aacf8f990eb301) 1145 points__ 
