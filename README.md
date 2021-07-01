@@ -44,7 +44,7 @@
 
 <br/>
 
-### 😄 Recent achievements & projects done
+### 😄 Recent achievements & projects done (last 365 days)
 - __[26-06-2021] MOOC ANSSI - SecNumAcademie__
 - __[09-05-2021] MOOC Udemy - Go Programming language__
 - __[02-04-2021] OpenSec Risk Manager__: Development of an open source product dedicated to cybersecurity risk management meeting ANSSI requirements by the 5 EBIOS label workshops with the aim of facilitating risk analysis on CISO projects
