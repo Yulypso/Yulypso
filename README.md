@@ -38,14 +38,14 @@
 <br/>
 
 ### 🌱 I’m currently learning
-- __MOOC ANSSI__ SecNumAcademie
-- __Kubernetes__
-- __Golang__
+- __Kubernetes Webhooks__
+- __Golang for Kubernetes Webhooks__
 - __[Root-me challenges](https://www.root-me.org/Yulypso?lang=fr#c478dc536a61adc434aacf8f990eb301) 1145 points__ 
 
 <br/>
 
 ### 😄 Recent achievements & projects done
+- __[26-06-2021] MOOC ANSSI - SecNumAcademie__
 - __[09-05-2021] MOOC Udemy - Go Programming language__
 - __[02-04-2021] OpenSec Risk Manager__: Development of an open source product dedicated to cybersecurity risk management meeting ANSSI requirements by the 5 EBIOS label workshops with the aim of facilitating risk analysis on CISO projects
     - __laureat:__ 
