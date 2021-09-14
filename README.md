@@ -7,6 +7,7 @@
 [![Linkedin: Thierry Khamphousone](https://img.shields.io/badge/-Thierry_Khamphousone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tkhamphousone/)](https://www.linkedin.com/in/tkhamphousone)
 [![GitHub Thierry Khamphousone](https://img.shields.io/github/followers/yulypso?label=follow&style=social)](https://github.com/Yulypso)
 
+<<<<<<< HEAD
 ### 🔭 Projects I’m currently working on...
 - __OpenSec Risk Manager__: Development of an open source product dedicated to cybersecurity risk management meeting ANSSI requirements by the 5 EBIOS label workshops with the aim of facilitating risk analysis on CISO projects
 - __RealEmbeddedPandaTime__: FreeRTOS development (Real Time Operating System) with STM32F4 Card, multithreaded programming
@@ -28,6 +29,9 @@
 <br>
 
 ### 📫 How to reach me: ...
+=======
+### 📫 How to reach me
+>>>>>>> 38a704670720cb5df9fbd743f7d309d331d44243
 
 <p align='left'>
     <img align='center' width="20" height="20" src="./pictures/outlook.png" />
