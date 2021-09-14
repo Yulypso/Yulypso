@@ -29,9 +29,6 @@
 <br>
 
 ### 📫 How to reach me: ...
-=======
-### 📫 How to reach me
->>>>>>> 38a704670720cb5df9fbd743f7d309d331d44243
 
 <p align='left'>
     <img align='center' width="20" height="20" src="./pictures/outlook.png" />
