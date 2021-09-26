@@ -8,22 +8,15 @@
 [![GitHub Thierry Khamphousone](https://img.shields.io/github/followers/yulypso?label=follow&style=social)](https://github.com/Yulypso)
 
 ### 🔭 Projects I’m currently working on...
-- __OpenSec Risk Manager__: Development of an open source product dedicated to cybersecurity risk management meeting ANSSI requirements by the 5 EBIOS label workshops with the aim of facilitating risk analysis on CISO projects
-- __RealEmbeddedPandaTime__: FreeRTOS development (Real Time Operating System) with STM32F4 Card, multithreaded programming
+- __Cryptanalysis__
+- __PlateformeAuto__: Associate collaborator as Full-Stack Developer with Artifex System
 
 <br>
 
 ### 🌱 I’m currently learning...
-- __Machine learning__
-- __Kubernetes__
-
-<br>
-
-### 😄 Recent achievements & projects done...
-- __[10-01-2021] MOOC Coursera - Machine Learning, Stanford University__
-- __[18-01-2021] Bitmap processing tool__: Development of an image processing tool in order to process images (enlarge, shrink, grayscale, border detection, blur and so on)
-- __[17-01-2021] Typescript Api RESTful__: Development of an Api RESTFul with Typescript language programming
-- __[21-01-2021] Freelance__ : Malt Full-stack developper 
+- __Cybersecurity__
+- __Network__
+- __[Root-me challenges](https://www.root-me.org/Yulypso?lang=fr#c478dc536a61adc434aacf8f990eb301) 1145 points__ 
 
 <br>
 
@@ -43,12 +36,6 @@
 
 <br/>
 
-### 🔭 Projects I’m currently working on
-- __PlateformeAuto__: Associate collaborator as Full-Stack Developer with Artifex System
-- __Atos Instrumentation Kubernetes__: Trainee as Designer-Developer at Atos France, Alien4Cloud project
-
-<br/>
-
 ### 💻 Challenges - CTF
 - __[12-05-2021 → 23-06-2021] WaveGame - WaveStone__: Pentest, Forensic, Incident management (Splunk), Cloud architecture (AXS, Terraform) ✅ __Team Rank: 6/39__
 - __[23-04-2021 → 25-04-2021] HeroCTF V3__: Blockchain, Crypto, Forensics, Misc, OSINT, Prog, Pwn, Reverse, Steganography, System, Web ✅ __Team Rank: 97/645__
@@ -57,15 +44,10 @@
 
 <br/>
 
-### 🌱 I’m currently learning
-- __Kubernetes Webhooks__
-- __Golang for Kubernetes Webhooks__
-- __[Root-me challenges](https://www.root-me.org/Yulypso?lang=fr#c478dc536a61adc434aacf8f990eb301) 1145 points__ 
-
-<br/>
-
 ### 😄 Recent achievements & projects done (last 365 days)
+- __[20-08-2021] Atos Instrumentation Kubernetes__: Trainee as Designer-Developer at Atos France, Alien4Cloud project
 - __[26-06-2021] MOOC ANSSI - SecNumAcademie__
+- __[05-05-2021] MOOC Udemy - Kubernetes__
 - __[09-05-2021] MOOC Udemy - Go Programming language__
 - __[02-04-2021] OpenSec Risk Manager__: Development of an open source product dedicated to cybersecurity risk management meeting ANSSI requirements by the 5 EBIOS label workshops with the aim of facilitating risk analysis on CISO projects
     - __laureat:__ 
