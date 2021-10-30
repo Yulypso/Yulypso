@@ -1,4 +1,4 @@
-## Welcome to my GitHub! 🐼
+## Welcome to my GitHub! 🐼☕
 
 <p align="left" width="100%">
     <img align="center" width="860" height="400" src="./pictures/tokyo.jpg"/>
@@ -8,6 +8,10 @@
 [![GitHub Thierry Khamphousone](https://img.shields.io/github/followers/yulypso?label=follow&style=social)](https://github.com/Yulypso)
 
 ### 🔭 Projects I’m currently working on...
+- __RiShark__: Pcap analyser (wireshark)
+- __RiChalculator__: Reverse polish notation calculator
+- __RiWords__: Parsing web page to get wordlists
+- __RiMaze__: Generate and solve mazes
 - __Cryptanalysis__
 - __PlateformeAuto__: Associate collaborator as Full-Stack Developer with Artifex System
 
