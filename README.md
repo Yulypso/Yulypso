@@ -11,7 +11,7 @@
 - __RiShark__: Pcap analyser (wireshark)
 - __RiChalculator__: Reverse polish notation calculator
 - __RiWords__: Parsing web page to get wordlists
-- __RiMaze__: Generate and solve mazes
+- __RiMaze__: Generate and solve mazes ✅
 - __Cryptanalysis__
 - __PlateformeAuto__: Associate collaborator as Full-Stack Developer with Artifex System
 
