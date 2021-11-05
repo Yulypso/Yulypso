@@ -1,4 +1,4 @@
-## Welcome to my GitHub! 🐼☕
+## Welcome to my GitHub! 🐼☕ 0xCAFE
 
 <p align="left" width="100%">
     <img align="center" width="860" height="400" src="./pictures/tokyo.jpg"/>
@@ -18,9 +18,9 @@
 <br>
 
 ### 🌱 I’m currently learning...
-- __Cybersecurity__
-- __Network__
-- __[Root-me challenges](https://www.root-me.org/Yulypso?lang=fr#c478dc536a61adc434aacf8f990eb301) 1145 points__ 
+- __Cybersecurity__: Buffer Overflow, Network security, Scapy, Awk, FLEX, Cryptography
+- __[Root-me challenges](https://www.root-me.org/Yulypso?lang=fr#c478dc536a61adc434aacf8f990eb301) 1235 points__ 
+- __[HTB-OSCP]__: Meetup OSCP HTB every weeks
 
 <br>
 
