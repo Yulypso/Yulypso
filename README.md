@@ -8,12 +8,16 @@
 [![GitHub Thierry Khamphousone](https://img.shields.io/github/followers/yulypso?label=follow&style=social)](https://github.com/Yulypso)
 
 ### 🔭 Projects I’m currently working on...
+- __RootMe (Private)__: RootMe private repository for challenged such as Buffer overflow (App System) ⏳
+- __Richarallele__: Parallel programming using OpenMP ⏳
+- __Cryptography Projects__: Implementing some crypto algorithms ⏳
+- __Scapy Projects__: Using Scapy to perform attacks through network packet forgery using different protocols ✅
 - __RiShark__: Pcap analyser (wireshark) ✅
 - __RiChalculator__: Reverse polish notation calculator ✅
 - __RiWords__: Parsing web page to get wordlists ✅
 - __RiMaze__: Generate and solve mazes ✅
 - __Cryptanalysis__ ✅
-- __PlateformeAuto__: Associate collaborator as Full-Stack Developer with Artifex System
+- __PlateformeAuto__: Associate collaborator as Full-Stack Developer with Artifex System ⏳
 
 <br>
 
