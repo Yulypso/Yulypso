@@ -26,8 +26,12 @@
 
 ### 🌱 I’m currently learning...
 - __Cybersecurity__: Buffer Overflow, Network security, Scapy, Awk, FLEX, Cryptography
-- __[Root-me challenges](https://www.root-me.org/Yulypso?lang=fr#c478dc536a61adc434aacf8f990eb301) 1235 points__ 
+- __[Root-me challenges](https://www.root-me.org/Yulypso?lang=fr#c478dc536a61adc434aacf8f990eb301) 1235 points__  
 - __[HTB-OSCP]__: Meetup OSCP HTB every weeks
+
+<object data="root-me-stats.json" type="application/pdf" width="1000px" height="800px"></object>
+
+<a href="docs/myjson.json" download>Click to open (or right-click and "Save link as") </a>
 
 <br>
 
