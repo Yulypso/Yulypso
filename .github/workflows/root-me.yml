@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: fjogeleit/http-request-action@v1.8.1
+      - uses: fjogeleit/http-request-action@master
         id: root-me-result
         with:
           url: 'https://api.www.root-me.org/auteurs/400956'
