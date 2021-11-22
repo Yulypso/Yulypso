@@ -2,7 +2,7 @@ name: Root-Me JSON Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '* */12 * * *'
 jobs:
   root-me-stats:
     name: Get Root-Me Personal Stats
