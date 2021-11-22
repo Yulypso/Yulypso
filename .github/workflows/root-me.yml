@@ -27,3 +27,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add .
           git diff-index --quiet HEAD || git commit -m "Add changes"
+      - uses: ad-m/github-push-action@master
+        name: Push changes
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
