@@ -1,7 +1,7 @@
 ## Welcome to my GitHub! 🐼☕ 0xcafe
 
 <p align="left" width="100%">
-    <img align="center" width="860" height="400" src="./pictures/tokyo.jpg"/> 
+    <img align="center" width="860" height="400" src="./pictures/tokyo.jpg"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
         <img src="https://badges.pufler.dev/visits/Yulypso/Yulypso?style=plastic&color=orange&label=Visitors"/>
     </a>
     <a href="https://github.com/Yulypso" target="blank">
-        <img src="https://badges.pufler.dev/updated/Yulypso/Yulypso?style=plastic&4"/>
+        <img src="https://badges.pufler.dev/updated/Yulypso/Yulypso?style=plastic&5"/>
     </a>
 </p>
 
