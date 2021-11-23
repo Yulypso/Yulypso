@@ -15,10 +15,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Generate build number
+        id: buildnumber
+        uses: einaregilsson/build-number@v3 
+        with:
+          token: ${{secrets.github_token}}  
       - name: update token
         id: yulypso
         run: |
-          YULYPSO=$(sed -e 's/${ID}/'"18"'/g' "templates/README.tpl.md")
+          YULYPSO=$(sed -e 's/${ID}/'"${{ steps.buildnumber.outputs.build_number }}"'/g' "templates/README.tpl.md")
           YULYPSO="${YULYPSO//'%'/'%25'}"
           YULYPSO="${YULYPSO//$'\n'/'%0A'}"
           YULYPSO="${YULYPSO//$'\r'/'%0D'}"
