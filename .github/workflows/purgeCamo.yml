@@ -1,0 +1,24 @@
+# This is a basic workflow to help you get started with Actions
+
+name: purge CAMO
+
+# Controls when the workflow will run
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  github-purge-camo:
+    name: Purge github cache
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: purge
+        id: buildnumber
+        run: |
+          cd /tmp \
+          && curl -LO https://raw.githubusercontent.com/mpyw/hub-purge/master/hub-purge.sh \
+          && chmod +x hub-purge.sh \
+          && mv hub-purge.sh /usr/local/bin/hub-purge
+          hub-purge yulypso
