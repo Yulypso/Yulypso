@@ -1,4 +1,4 @@
-echo ## Welcome to my GitHub! 🐼☕ 0xcafe
+## Welcome to my GitHub! 🐼☕ 0xcafe
 
 <p align="left" width="100%">
     <img align="center" width="860" height="400" src="./pictures/tokyo.jpg"/>
@@ -21,7 +21,7 @@ echo ## Welcome to my GitHub! 🐼☕ 0xcafe
         <img src="https://badges.pufler.dev/visits/Yulypso/Yulypso?style=plastic&color=orange&label=Visitors"/>
     </a>
     <a href="https://github.com/Yulypso" target="blank">
-        <img src="https://badges.pufler.dev/updated/Yulypso/Yulypso?style=plastic&15"/>
+        <img src="https://badges.pufler.dev/updated/Yulypso/Yulypso?style=plastic&${ID}"/>
     </a>
 </p>
 
