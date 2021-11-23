@@ -19,6 +19,9 @@ jobs:
         id: yulypso
         run: |
           YULYPSO=$(sed -e 's/${ID}/'"15"'/g' "README.md")
+          YULYPSO="${YULYPSO//'%'/'%25'}"
+          YULYPSO="${YULYPSO//$'\n'/'%0A'}"
+          YULYPSO="${YULYPSO//$'\r'/'%0D'}"
           echo "::set-output name=content::$YULYPSO"
       - uses: DamianReeves/write-file-action@master
         with:
