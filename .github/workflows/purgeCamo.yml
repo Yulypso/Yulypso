@@ -6,7 +6,7 @@ name: purge CAMO
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '* * * * *'
 
 jobs:
   github-purge-camo:
