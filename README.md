@@ -25,8 +25,6 @@
     </a>
 </p>
 
-[![Updated Badge](https://badges.pufler.dev/updated/Yulypso/Yulypso)](https://github.com/Yulypso)
-
 
 ### 🔭 Projects I’m currently working on...
 - __RootMe (Private)__: RootMe private repository for challenged such as Buffer overflow (App System) ⏳
