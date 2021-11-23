@@ -17,8 +17,4 @@ jobs:
       - name: purge
         id: buildnumber
         run: |
-          cd /tmp \
-          && curl -LO https://raw.githubusercontent.com/mpyw/hub-purge/master/hub-purge.sh \
-          && chmod +x hub-purge.sh \
-          && mv hub-purge.sh /usr/local/bin/hub-purge
-          hub-purge yulypso/
+          cd /tmp && curl -LO https://raw.githubusercontent.com/mpyw/hub-purge/master/hub-purge.sh && chmod +x hub-purge.sh && mv hub-purge.sh /usr/local/bin/hub-purge && hub-purge yulypso
