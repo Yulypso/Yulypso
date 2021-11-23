@@ -1,7 +1,7 @@
 ## Welcome to my GitHub! 🐼☕ 0xcafe
 
 <p align="left" width="100%">
-    <img align="center" width="860" height="400" src="./pictures/tokyo.jpg"/>
+    <img align="center" width="860" height="400" src="./pictures/tokyo.jpg"/> 
 </p>
 
 <p align="center">
