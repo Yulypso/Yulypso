@@ -21,7 +21,7 @@
         <img src="https://badges.pufler.dev/visits/Yulypso/Yulypso?style=plastic&color=orange&label=Visitors"/>
     </a>
     <a href="https://github.com/Yulypso" target="blank">
-        <img src="https://badges.pufler.dev/updated/Yulypso/Yulypso?style=plastic&1"/>
+        <img src="https://badges.pufler.dev/updated/Yulypso/Yulypso?style=plastic&2"/>
     </a>
 </p>
 
