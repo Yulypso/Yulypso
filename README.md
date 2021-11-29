@@ -23,6 +23,9 @@
     <a href="https://github.com/Yulypso" target="blank">
         <img src="https://badges.pufler.dev/updated/Yulypso/Yulypso?style=plastic"/>
     </a>
+    <a href="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml" target="blank">
+        <img src="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml/badge.svg?branch=master)"/>
+    </a>
 </p>
 
 
