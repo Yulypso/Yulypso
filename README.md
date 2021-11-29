@@ -1,6 +1,15 @@
 ## Welcome to my GitHub! 🐼☕ 0xcafe
 
-<p align="left" width="100%">
+<p align="right">
+    <a href="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml" target="blank">
+        <img src="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml/badge.svg"/>
+    </a>
+    <a href="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml" target="blank">
+        <img src="https://github.com/Yulypso/Yulypso/actions/workflows/purgeCamo.yml/badge.svg"/>
+    </a>
+</p>
+    
+<p align="center" width="100%">
     <img align="center" width="860" height="400" src="./pictures/tokyo.jpg"/>
 </p>
 
@@ -10,12 +19,6 @@
     </a>
     <a href="https://github.com/Yulypso" target="blank">
         <img src="https://img.shields.io/github/followers/yulypso?label=follow&style=social"/>
-    </a>
-    <a href="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml" target="blank">
-        <img src="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml/badge.svg"/>
-    </a>
-    <a href="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml" target="blank">
-        <img src="https://github.com/Yulypso/Yulypso/actions/workflows/purgeCamo.yml/badge.svg"/>
     </a>
 </p>
 
