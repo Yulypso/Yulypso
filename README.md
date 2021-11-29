@@ -11,6 +11,12 @@
     <a href="https://github.com/Yulypso" target="blank">
         <img src="https://img.shields.io/github/followers/yulypso?label=follow&style=social"/>
     </a>
+    <a href="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml" target="blank">
+        <img src="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml/badge.svg"/>
+    </a>
+    <a href="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml" target="blank">
+        <img src="https://github.com/Yulypso/Yulypso/actions/workflows/purgeCamo.yml/badge.svg"/>
+    </a>
 </p>
 
 <p align="center" style="pointer-events: none">
@@ -22,9 +28,6 @@
     </a>
     <a href="https://github.com/Yulypso" target="blank">
         <img src="https://badges.pufler.dev/updated/Yulypso/Yulypso?style=plastic"/>
-    </a>
-    <a href="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml" target="blank">
-        <img src="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml/badge.svg?branch=master)"/>
     </a>
 </p>
 
