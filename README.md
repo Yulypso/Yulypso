@@ -37,11 +37,11 @@
 
 ### 🔭 Projects I’m currently working on...
 - __RootMe (Private)__: RootMe private repository for challenged such as Buffer overflow (App System) ⏳
-- __RiSage__: Asymetric cryptography using SageMath ⏳
+- __RiSage__: Asymetric cryptography using SageMath ✅
 - __RiCard__: SmartCard programming (JavaCard), APDU communications ⏳
 - __RichAwk__: Parsing network configuration files such as CISCO using Awk ⏳
 - __Richarallele__: Parallel programming using OpenMP ✅
-- __Cryptography Projects__: Implementing some crypto algorithms ⏳
+- __Cryptography Projects__: Implementing some crypto algorithms ✅
 - __Scapy Projects__: Using Scapy to perform attacks through network packet forgery using different protocols ✅
 - __RiShark__: Pcap analyser (wireshark) ✅
 - __RiChalculator__: Reverse polish notation calculator ✅
