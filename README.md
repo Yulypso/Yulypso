@@ -37,11 +37,12 @@
 
 ### 🔭 Projects I’m currently working on...
 - __Reverse Engineering__: Learning basics of Reverse Engineering (PE) ⏳
+- __Cyber Threat Intelligence__: ⏳
+- __RiCard__: SmartCard programming (JavaCard), APDU communications ⏳
 - __RootMe (Private)__: RootMe private repository for challenged such as Buffer overflow (App System) ⏳
 - __TelecomSecurity__: Mobile network security ✅
 - __RiSage__: Asymetric cryptography using SageMath ✅
-- __RiCard__: SmartCard programming (JavaCard), APDU communications ⏳
-- __RichAwk__: Parsing network configuration files such as CISCO using Awk ⏳
+- __RichAwk__: Parsing network configuration files such as CISCO using Awk, Flex, Bison, Sagemath and Shell ✅
 - __Richarallele__: Parallel programming using OpenMP ✅
 - __Cryptography Projects__: Implementing some crypto algorithms ✅
 - __Scapy Projects__: Using Scapy to perform attacks through network packet forgery using different protocols ✅
