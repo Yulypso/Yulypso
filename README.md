@@ -38,6 +38,7 @@
 ### 🔭 Projects I’m currently working on...
 - __Reverse Engineering__: Learning basics of Reverse Engineering (PE) ⏳
 - __Cyber Threat Intelligence__: ⏳
+- __SteganoProjects__: JPEG steganography using C language⏳
 - __RiCard__: SmartCard programming (JavaCard), APDU communications ⏳
 - __RootMe (Private)__: RootMe private repository for challenged such as Buffer overflow (App System) ⏳
 - __TelecomSecurity__: Mobile network security ✅
