@@ -36,11 +36,11 @@
 
 
 ### 🔭 Projects I’m currently working on...
+- __Cyber Threat Intelligence__: Working on Advanced Persistant Threats ⏳
+- __SuricataProjects__: Investigating pcap logs using Suricata ⏳
+- __SteganoProjects__: JPEG steganography using C language ✅
 - __Reverse Engineering__: Learning basics of Reverse Engineering (PE) ⏳
-- __Cyber Threat Intelligence__: ⏳
-- __SteganoProjects__: JPEG steganography using C language⏳
 - __RiCard__: SmartCard programming (JavaCard), APDU communications ⏳
-- __RootMe (Private)__: RootMe private repository for challenged such as Buffer overflow (App System) ⏳
 - __TelecomSecurity__: Mobile network security ✅
 - __RiSage__: Asymetric cryptography using SageMath ✅
 - __RichAwk__: Parsing network configuration files such as CISCO using Awk, Flex, Bison, Sagemath and Shell ✅
@@ -52,13 +52,14 @@
 - __RiWords__: Parsing web page to get wordlists ✅
 - __RiMaze__: Generate and solve mazes ✅
 - __Cryptanalysis__ ✅
+- __RootMe (Private)__: RootMe private repository for challenged such as Buffer overflow (App System) ⏳
 - __PlateformeAuto__: Associate collaborator as Full-Stack Developer with Artifex System ⏳ 
 
 <br>
 
 ### 🌱 I’m currently learning...
-- __Cybersecurity__: Buffer Overflow, Network security, Scapy, Awk, FLEX, Symetric cryptography, Public key Cryptography, SmartCard (APDU), Networks
-- __[HTB-OSCP]__: Meetup OSCP HTB every weeks
+- __Cybersecurity__: Buffer Overflow, Network security, Scapy, Awk, FLEX, Symetric cryptography, Public key Cryptography, Cryptanalysis, SmartCard (APDU), Networks, Cuda, Steganography, Suricata, Sagemath, CISCO config files, Reverse engineering, Threat intelligence, JavaCard & APDU, Telecom mobbile networks
+- __[HTB-OSCP]__: Meetup OSCP HTB every 2 weeks
 
 <br>
 
