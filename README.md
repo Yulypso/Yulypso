@@ -36,11 +36,12 @@
 
 
 ### 🔭 Projects I’m currently working on...
+- __cryptoFile__: SmartCard with file encryption features ⏳
 - __Cyber Threat Intelligence__: Working on Advanced Persistant Threats ⏳
 - __SuricataProjects__: Investigating pcap logs using Suricata ⏳
 - __SteganoProjects__: JPEG steganography using C language ✅
 - __Reverse Engineering__: Learning basics of Reverse Engineering (PE) ⏳
-- __RiCard__: SmartCard programming (JavaCard), APDU communications ⏳
+- __RiCard__: SmartCard programming (JavaCard), APDU communications ✅
 - __TelecomSecurity__: Mobile network security ✅
 - __RiSage__: Asymetric cryptography using SageMath ✅
 - __RichAwk__: Parsing network configuration files such as CISCO using Awk, Flex, Bison, Sagemath and Shell ✅
