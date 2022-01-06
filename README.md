@@ -41,7 +41,7 @@
 - __Cyber Threat Intelligence__: Working on Advanced Persistant Threats ⏳
 - __SuricataProjects__: Investigating pcap logs using Suricata ✅
 - __SteganoProjects__: JPEG steganography using C language ✅
-- __Reverse Engineering__: Reverse 2 PE (.exe windows) using IDA ⏳
+- __ReverseEngineeringProjects__: Reverse 2 PE (EZ.exe KEYGENME.exe windows) using IDA ✅
 - __RiCard__: SmartCard programming (JavaCard), APDU communications ✅
 - __TelecomSecurity__: Mobile network security ✅
 - __RiSage__: Asymetric cryptography using SageMath ✅
