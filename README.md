@@ -36,11 +36,17 @@
 
 
 ### 🔭 Projects I’m currently working on...
-- __RootMe (Private)__: RootMe private repository for challenged such as Buffer overflow (App System) ⏳
-- __TelecomSecurity__: Mobile network security ⏳
+- __SecureApp__: Secure Client-Server over TCP Chatroom with SmartCard authentication ⏳
+- __Radio Communication__: gnuradio, gqrx ✅
+- __CryptoFile__: SmartCard with file encryption features ✅
+- __Cyber Threat Intelligence__: Working on Advanced Persistant Threats ⏳
+- __SuricataProjects__: Investigating pcap logs using Suricata ✅
+- __SteganoProjects__: JPEG steganography using C language ✅
+- __ReverseEngineeringProjects__: Reverse 2 PE (EZ.exe KEYGENME.exe windows) using IDA ✅
+- __RiCard__: SmartCard programming (JavaCard), APDU communications ✅
+- __TelecomSecurity__: Mobile network security ✅
 - __RiSage__: Asymetric cryptography using SageMath ✅
-- __RiCard__: SmartCard programming (JavaCard), APDU communications ⏳
-- __RichAwk__: Parsing network configuration files such as CISCO using Awk ⏳
+- __RichAwk__: Parsing network configuration files such as CISCO using Awk, Flex, Bison, Sagemath and Shell ✅
 - __Richarallele__: Parallel programming using OpenMP ✅
 - __Cryptography Projects__: Implementing some crypto algorithms ✅
 - __Scapy Projects__: Using Scapy to perform attacks through network packet forgery using different protocols ✅
@@ -49,13 +55,14 @@
 - __RiWords__: Parsing web page to get wordlists ✅
 - __RiMaze__: Generate and solve mazes ✅
 - __Cryptanalysis__ ✅
+- __RootMe (Private)__: RootMe private repository for challenged such as Buffer overflow (App System) ⏳
 - __PlateformeAuto__: Associate collaborator as Full-Stack Developer with Artifex System ⏳ 
 
 <br>
 
 ### 🌱 I’m currently learning...
-- __Cybersecurity__: Buffer Overflow, Network security, Scapy, Awk, FLEX, Symetric cryptography, Public key Cryptography, SmartCard (APDU), Networks
-- __[HTB-OSCP]__: Meetup OSCP HTB every weeks
+- __Cybersecurity__: Buffer Overflow, Network security, Scapy, Awk, FLEX, Symetric cryptography, Public key Cryptography, Cryptanalysis, SmartCard (APDU), Networks, Cuda, Steganography, Suricata, Sagemath, CISCO config files, Reverse engineering, Threat intelligence, JavaCard & APDU, Telecom mobbile networks
+- __[HTB-OSCP]__: Meetup OSCP HTB every 2 weeks
 
 <br>
 
@@ -76,6 +83,7 @@
 <br/>
 
 ### 💻 Challenges - CTF
+- __[2022] WaveGame - WaveStone__: Waiting for registration 🥳
 - __[12-05-2021 → 23-06-2021] WaveGame - WaveStone__: Pentest, Forensic, Incident management (Splunk), Cloud architecture (AXS, Terraform) ✅ __Team Rank: 6/39__
 - __[23-04-2021 → 25-04-2021] HeroCTF V3__: Blockchain, Crypto, Forensics, Misc, OSINT, Prog, Pwn, Reverse, Steganography, System, Web ✅ __Team Rank: 97/645__
 - __[22-03-2021] DEFNET 2021__: Cybersecurity challenge, Forensic tasks ✅ __90% Completed__
