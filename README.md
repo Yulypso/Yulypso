@@ -35,32 +35,6 @@
 </p>
 
 
-### 🔭 Projects I’m currently working on...
-- __File-Encryption-Tool__: File encryption tool using PyCryptodome AES-256-CBC and HMAC SHA256 ⏳
-- __SecureApp__: Secure Client-Server over TCP Chatroom with SmartCard authentication ⏳
-- __Radio Communication__: gnuradio, gqrx ✅
-- __CryptoFile__: SmartCard with file encryption features ✅
-- __Cyber Threat Intelligence__: Working on Advanced Persistant Threats ⏳
-- __SuricataProjects__: Investigating pcap logs using Suricata ✅
-- __SteganoProjects__: JPEG steganography using C language ✅
-- __ReverseEngineeringProjects__: Reverse 2 PE (EZ.exe KEYGENME.exe windows) using IDA ✅
-- __RiCard__: SmartCard programming (JavaCard), APDU communications ✅
-- __TelecomSecurity__: Mobile network security ✅
-- __RiSage__: Asymetric cryptography using SageMath ✅
-- __RichAwk__: Parsing network configuration files such as CISCO using Awk, Flex, Bison, Sagemath and Shell ✅
-- __Richarallele__: Parallel programming using OpenMP ✅
-- __Cryptography Projects__: Implementing some crypto algorithms ✅
-- __Scapy Projects__: Using Scapy to perform attacks through network packet forgery using different protocols ✅
-- __RiShark__: Pcap analyser (wireshark) ✅
-- __RiChalculator__: Reverse polish notation calculator ✅
-- __RiWords__: Parsing web page to get wordlists ✅
-- __RiMaze__: Generate and solve mazes ✅
-- __Cryptanalysis__ ✅
-- __RootMe (Private)__: RootMe private repository for challenged such as Buffer overflow (App System) ⏳
-- __PlateformeAuto__: Associate collaborator as Full-Stack Developer with Artifex System ⏳ 
-
-<br>
-
 ### 📫 How to reach me: ...
 
 <p align='left'>
@@ -93,8 +67,31 @@
     <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yulypso&langs_count=10&theme=tokyonight&layout=compact&card_width=400&custom_title=Yulypso's Most Used Languages" />
 </div>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+### 🔭 Projects I’m currently working on...
+- __File-Encryption-Tool__: File encryption tool using PyCryptodome AES-256-CBC and HMAC SHA256 ⏳
+- __SecureApp__: Secure Client-Server over TCP Chatroom with SmartCard authentication ⏳
+- __Radio Communication__: gnuradio, gqrx ✅
+- __CryptoFile__: SmartCard with file encryption features ✅
+- __Cyber Threat Intelligence__: Working on Advanced Persistant Threats ⏳
+- __SuricataProjects__: Investigating pcap logs using Suricata ✅
+- __SteganoProjects__: JPEG steganography using C language ✅
+- __ReverseEngineeringProjects__: Reverse 2 PE (EZ.exe KEYGENME.exe windows) using IDA ✅
+- __RiCard__: SmartCard programming (JavaCard), APDU communications ✅
+- __TelecomSecurity__: Mobile network security ✅
+- __RiSage__: Asymetric cryptography using SageMath ✅
+- __RichAwk__: Parsing network configuration files such as CISCO using Awk, Flex, Bison, Sagemath and Shell ✅
+- __Richarallele__: Parallel programming using OpenMP ✅
+- __Cryptography Projects__: Implementing some crypto algorithms ✅
+- __Scapy Projects__: Using Scapy to perform attacks through network packet forgery using different protocols ✅
+- __RiShark__: Pcap analyser (wireshark) ✅
+- __RiChalculator__: Reverse polish notation calculator ✅
+- __RiWords__: Parsing web page to get wordlists ✅
+- __RiMaze__: Generate and solve mazes ✅
+- __Cryptanalysis__ ✅
+- __RootMe (Private)__: RootMe private repository for challenged such as Buffer overflow (App System) ⏳
+- __PlateformeAuto__: Associate collaborator as Full-Stack Developer with Artifex System ⏳ 
 
 
 <!-- to display more pin repositories :
