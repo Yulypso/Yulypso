@@ -34,21 +34,6 @@
     </a>
 </p>
 
-
-### 📫 How to reach me: ...
-
-<p align='left'>
-    <img align='center' width="20" height="20" src="./pictures/outlook.png" />
-        : 
-        <a href='mailto:khamphousone.thierry@outlook.fr?subject=GitHub:%20information%20request'>khamphousone.thierry@outlook.fr</a>
-<p/>
-
-<p align='left'>
-    <img align='center' width="20" height="20" src="./pictures/malt.png" />
-        : 
-        <a href='https://www.malt.fr/profile/thierrykhamphousone'>Full-stack developper profile</a>
-<p/>
-
 <br/>
 
 ### 💻 Challenges - CTF
