@@ -61,12 +61,6 @@
 
 <br>
 
-### 🌱 I’m currently learning...
-- __Cybersecurity__: Buffer Overflow, Network security, Scapy, Awk, FLEX, Symetric cryptography, Public key Cryptography, Cryptanalysis, SmartCard (APDU), Networks, Cuda, Steganography, Suricata, Sagemath, CISCO config files, Reverse engineering, Threat intelligence, JavaCard & APDU, Telecom mobbile networks
-- __[HTB-OSCP]__: Meetup OSCP HTB every 2 weeks
-
-<br>
-
 ### 📫 How to reach me: ...
 
 <p align='left'>
@@ -89,29 +83,6 @@
 - __[23-04-2021 → 25-04-2021] HeroCTF V3__: Blockchain, Crypto, Forensics, Misc, OSINT, Prog, Pwn, Reverse, Steganography, System, Web ✅ __Team Rank: 97/645__
 - __[22-03-2021] DEFNET 2021__: Cybersecurity challenge, Forensic tasks ✅ __90% Completed__
 
-
-<br/>
-
-### 😄 Recent achievements & projects done (last 365 days)
-- __[20-08-2021] Atos Instrumentation Kubernetes__: Trainee as Designer-Developer at Atos France, Alien4Cloud project
-- __[26-06-2021] MOOC ANSSI - SecNumAcademie__
-- __[05-05-2021] MOOC Udemy - Kubernetes__
-- __[09-05-2021] MOOC Udemy - Go Programming language__
-- __[02-04-2021] OpenSec Risk Manager__: Development of an open source product dedicated to cybersecurity risk management meeting ANSSI requirements by the 5 EBIOS label workshops with the aim of facilitating risk analysis on CISO projects
-    - __laureat:__ 
-        - __best production🥇__
-        - __best presentation🥇__
-        - __mentors' prize🥇__
-- __[30-03-2021] RealEmbeddedPandaTime__: FreeRTOS development (Real Time Operating System) with STM32F4 Card, multithreaded programming 
-- __[20-03-2021] Image Analysis__: Image processing and machine learning in order to recognise some fruits 🍎 🍓 🍌 
-- __[12-03-2021] Emotion Recognition__: Machine learning, the goal is to recognise human emotion through facial emotion images
-- __[03-03-2021] Neural Network__: With Scikit learn
-- __[21-01-2021] Freelance__ : Malt Full-stack developper
-- __[17-01-2021] Typescript Api RESTful__: Development of an Api RESTFul with Typescript language programming
-- __[18-01-2021] Bitmap processing tool__: Development of an image processing tool in order to process images (enlarge, shrink, grayscale, border detection, blur and so on)
-- __[10-01-2021] MOOC Coursera - Machine Learning, Stanford University__
-
-<br/>
 
 ### GitHub Stats
 
