@@ -28,7 +28,8 @@ jobs:
           HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
           HEROKU_EMAIL: ${{ secrets.HEROKU_EMAIL }}
       - name: restart discord bot through heroku LeCoiffeur
-        run: heroku restart -a $HEROKU_APP_NAME
+        run: |
+             heroku restart -a $HEROKU_APP_NAME
              heroku restart -a $HEROKU_APP_NAME_2
         env:
           HEROKU_APP_NAME: ${{ secrets.HEROKU_APP_NAME }}
