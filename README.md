@@ -7,6 +7,9 @@
     <a href="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml" target="blank">
         <img src="https://github.com/Yulypso/Yulypso/actions/workflows/purgeCamo.yml/badge.svg"/>
     </a>
+    <a href="https://github.com/Yulypso/Yulypso/actions/workflows/heroku-discord-bot.yml" target="blank">
+        <img src="https://github.com/Yulypso/Yulypso/actions/workflows/heroku-discord-bot.yml/badge.svg"/>
+    </a>
 </p>
     
 <p align="center" width="100%">
