@@ -29,9 +29,7 @@ jobs:
           HEROKU_EMAIL: ${{ secrets.HEROKU_EMAIL }}
       - name: restart discord bot through heroku LeCoiffeur
         run: heroku restart -a $HEROKU_APP_NAME
+             heroku restart -a $HEROKU_APP_NAME_2
         env:
           HEROKU_APP_NAME: ${{ secrets.HEROKU_APP_NAME }}
-      - name: restart discord bot through heroku YulypsoBot
-        run: heroku restart -a $HEROKU_APP_NAME_2
-        env:
-          HEROKU_APP_NAME: ${{ secrets.HEROKU_APP_NAME_2 }}
+          HEROKU_APP_NAME_2: ${{ secrets.HEROKU_APP_NAME_2 }}
