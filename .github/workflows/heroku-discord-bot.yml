@@ -2,7 +2,7 @@ name: Heroku restart Discord bots
 on:
   workflow_dispatch:
   schedule:
-    - cron: '* * * * *'
+    - cron: '0 * * * *'
 jobs:
   custom-deploy:
     # The `needs` is added to bypass:
