@@ -7,7 +7,7 @@ jobs:
   custom-deploy:
     # The `needs` is added to bypass:
     # "Your account has reached its concurrent builds limit"
-    name: Get Root-Me Personal Stats
+    name: Heroku restart Discord bots
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
