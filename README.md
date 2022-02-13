@@ -13,7 +13,7 @@
 </p>
     
 <p align="center" width="100%">
-    <img align="center" width="860" height="400" src="./pictures/tokyo.jpg"/>
+    <img align="center" width="806" height="604" src="./pictures/mount_fuji.jpg"/>
 </p>
 
 <p align="center">
