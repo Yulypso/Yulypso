@@ -58,7 +58,8 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### 🔭 Projects I’m currently working on...
-- __File-Encryption-Tool__: File encryption tool using PyCryptodome AES-256-CBC and HMAC SHA256 ⏳
+- __Buffer overflow (Stack, Heap, Format strings)__: Find and Exploit vulnerabilities ELF x64/x86 ⏳
+- __File-Encryption-Tool__: File encryption tool using PyCryptodome AES-256-CBC and HMAC SHA256 ✅
 - __SecureApp__: Secure Client-Server over TCP Chatroom with SmartCard authentication ⏳
 - __Radio Communication__: gnuradio, gqrx ✅
 - __CryptoFile__: SmartCard with file encryption features ✅
