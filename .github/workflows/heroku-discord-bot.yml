@@ -30,7 +30,5 @@ jobs:
       - name: restart discord bot through heroku LeCoiffeur
         run: |
              heroku restart -a $HEROKU_APP_NAME
-             heroku restart -a $HEROKU_APP_NAME_2
         env:
           HEROKU_APP_NAME: ${{ secrets.HEROKU_APP_NAME }}
-          HEROKU_APP_NAME_2: ${{ secrets.HEROKU_APP_NAME_2 }}
