@@ -40,7 +40,8 @@
 <br/>
 
 ### 💻 Challenges - CTF
-- __[2022] WaveGame - WaveStone__: Waiting for registration 🥳
+- __[18-03-2021] DEFNET 2022__: Cybersecurity challenge ⏳
+- __[09-03-2022 → 12-06-2022] WaveGame - WaveStone__: Challenge 1 ⏳
 - __[12-05-2021 → 23-06-2021] WaveGame - WaveStone__: Pentest, Forensic, Incident management (Splunk), Cloud architecture (AXS, Terraform) ✅ __Team Rank: 6/39__
 - __[23-04-2021 → 25-04-2021] HeroCTF V3__: Blockchain, Crypto, Forensics, Misc, OSINT, Prog, Pwn, Reverse, Steganography, System, Web ✅ __Team Rank: 97/645__
 - __[22-03-2021] DEFNET 2021__: Cybersecurity challenge, Forensic tasks ✅ __90% Completed__
@@ -58,6 +59,9 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### 🔭 Projects I’m currently working on...
+- __ShakaRootkit__: Rootkit Detector and Rootkit (hiding process feature and more)
+- __TwitterOSINT__: Parsing tweets from Twitter depending on tags
+- __AuditWeb__: Web audit / Pentest 
 - __Buffer overflow & Vulnerability Exploits (Stack, Heap, Format strings)__: Find and Exploit vulnerabilities ELF x64/x86; Stack Canary, ASLR bypass; Gadgets & Rop chain ✅
 - __File-Encryption-Tool__: File encryption tool using PyCryptodome AES-256-CBC and HMAC SHA256 ✅
 - __SecureApp__: Secure Client-Server over TCP Chatroom with SmartCard authentication ✅
