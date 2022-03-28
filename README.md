@@ -59,9 +59,9 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### 🔭 Projects I’m currently working on...
-- __ForensicProjects__: Forensic projects using Autopsy, Testdisk, Binwalk ⏳
+- __ForensicProjects__: Forensic & data recovery projects using Autopsy, Testdisk, Binwalk, Photorec, Smartctl, Ddrescue/Gddrescue ✅
 - __SELinux__: SELinux administration for users, types, domains, policies ✅
-- __ShakaRootkit & ShakaRootKitDetector__: Rootkit Detector and Rootkit for Hiding process/Re-showing hidden process, Hiding files/Re-showing hidden files⏳
+- __ShakaRootkit & ShakaRootKitDetector__: Rootkit Detector and Rootkit for Hiding process/Re-showing hidden process, Hiding files/Re-showing hidden files ✅
 - __TwitterOSINT__: Parsing tweets from Twitter depending on tags ✅
 - __AuditWeb__: Web audit / Pentest ✅
 - __Buffer overflow & Vulnerability Exploits (Stack, Heap, Format strings)__: Find and Exploit vulnerabilities ELF x64/x86; Stack Canary, ASLR bypass; Gadgets & Rop chain ✅
