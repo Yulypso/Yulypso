@@ -1,4 +1,4 @@
-## Welcome to my GitHub! 🐼☕ 0xcafe
+## Welcome to my GitHub! 🐼
 
 <p align="right">
     <a href="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml" target="blank">
