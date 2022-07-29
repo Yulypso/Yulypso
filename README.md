@@ -42,7 +42,7 @@
 
 <br/>
 
-### 💻 Challenges - CTF 
+### 💻 Challenges - CTF
 - __[18-03-2021] DEFNET 2022__: Cybersecurity challenge ✅
 - __[09-03-2022 → 12-06-2022] WaveGame - WaveStone__: Challenge 1 - Pentest, Audit (__Team Rank: 6/41__) ⏳
 - __[12-05-2021 → 23-06-2021] WaveGame - WaveStone__: Pentest, Forensic, Incident management (Splunk), Cloud architecture (AXS, Terraform) ✅ __Team Rank: 6/39__
