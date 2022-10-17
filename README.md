@@ -54,54 +54,20 @@
 
 <img align='right' width="300" height="512" src="./pictures/stats.gif" />
 
-<div align='left'>
-    <img align='left' width='450' src="https://github-readme-stats.vercel.app/api?username=yulypso&count_private=true&theme=tokyonight&layout=compact&show_icons=true&custom_title=Yulypso's GitHub Stats"/>
-    <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yulypso&langs_count=10&theme=tokyonight&layout=compact&card_width=400&custom_title=Yulypso's Most Used Languages" />
-</div>
+![Yulypso's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulypso&show_icons=true&theme=tokyonight&custom_title=Yulypso%27s%20GitHub%20Stats&count_private=true&layout=compact)
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-### 🔭 Projects I’m currently working on...
-- __ShakaMalware__: Malware replication in Python3, Virtual Machine infections ✅
-- __ForensicProjects__: Forensic & data recovery projects using Autopsy, Testdisk, Binwalk, Photorec, Smartctl, Ddrescue/Gddrescue ✅
-- __SELinux__: SELinux administration for users, types, domains, policies ✅
-- __ShakaRootkit & ShakaRootKitDetector__: Rootkit Detector and Rootkit for Hiding process/Re-showing hidden process, Hiding files/Re-showing hidden files ✅
-- __TwitterOSINT__: Parsing tweets from Twitter depending on tags ✅
-- __AuditWeb__: Web audit / Pentest ✅
-- __Buffer overflow & Vulnerability Exploits (Stack, Heap, Format strings)__: Find and Exploit vulnerabilities ELF x64/x86; Stack Canary, ASLR bypass; Gadgets & Rop chain ✅
-- __File-Encryption-Tool__: File encryption tool using PyCryptodome AES-256-CBC and HMAC SHA256 ✅
-- __SecureApp__: Secure Client-Server over TCP Chatroom with SmartCard authentication ✅
-- __Radio Communication__: gnuradio, gqrx ✅
-- __CryptoFile__: SmartCard with file encryption features ✅
-- __Cyber Threat Intelligence__: Working on the Advanced Persistant Threats called Chimera and Taiwan semiconductor vendors ✅
-- __SuricataProjects__: Investigating pcap logs using Suricata ✅
-- __SteganoProjects__: JPEG steganography using C language ✅
-- __ReverseEngineeringProjects__: Reverse 2 PE (EZ.exe KEYGENME.exe windows) using IDA ✅
-- __RiCard__: SmartCard programming (JavaCard), APDU communications ✅
-- __TelecomSecurity__: Mobile network security ✅
-- __RiSage__: Asymetric cryptography using SageMath ✅
-- __RichAwk__: Parsing network configuration files such as CISCO using Awk, Flex, Bison, Sagemath and Shell ✅
-- __Richarallele__: Parallel programming using OpenMP ✅
-- __Cryptography Projects__: Implementing some crypto algorithms ✅
-- __Scapy Projects__: Using Scapy to perform attacks through network packet forgery using different protocols ✅
-- __RiShark__: Pcap analyser (wireshark) ✅
-- __RiChalculator__: Reverse polish notation calculator ✅
-- __RiWords__: Parsing web page to get wordlists ✅
-- __RiMaze__: Generate and solve mazes ✅
-- __Cryptanalysis__ ✅
-- __PlateformeAuto__: Associate collaborator as Full-Stack Developer with Artifex System ⏳ 
+![Yulypso's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yulypso&langs_count=10&theme=tokyonight&layout=compact&card_width=400&custom_title=Yulypso%27s%20Most%20Used%20Languages)
 
 
 <!-- to display more pin repositories :
 https://github-readme-stats.vercel.app/api/pin/?username=yulypso&repo=meimo&count_private=true&theme=tokyonight&layout=compact&show_icons=true -->
-
-
 
 <!--
 **Yulypso/Yulypso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+### 🔭 Projects I’m currently working on...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
