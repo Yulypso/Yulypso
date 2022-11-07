@@ -39,7 +39,7 @@
 
 ![Yulypso's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulypso&show_icons=true&theme=tokyonight&custom_title=Yulypso%27s%20GitHub%20Stats&count_private=true&layout=compact)
 
-![Yulypso's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yulypso&hide=html,css,shaderlab,makefile,objective-c,assembly,asp.net,matlab&langs_count=10&theme=tokyonight&layout=compact&card_width=400&custom_title=Yulypso%27s%20Most%20Used%20Languages)
+![Yulypso's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yulypso&hide=html,css,shaderlab,makefile,objective-c,assembly,asp.net,matlab,jupyter%20notebook&langs_count=10&theme=tokyonight&layout=compact&card_width=400&custom_title=Yulypso%27s%20Most%20Used%20Languages)
 
 
 <!-- to display more pin repositories :
