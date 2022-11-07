@@ -25,7 +25,10 @@
     </a>
 </p>
 
+<img align='right' width="300" height="512" src="./pictures/stats.gif" />
+
 ### Challenges 
+
 - __[18-03-2021] DEFNET 2022__: Cybersecurity challenge ✅
 - __[09-03-2022] WaveGame - WaveStone__: Challenge 1 - Pentest, Audit (__Team Rank: 6/41__) ⏳
 - __[12-05-2021] WaveGame - WaveStone__: Pentest, Forensic, Incident management (Splunk), Cloud architecture (AXS, Terraform) ✅ __Team Rank: 6/39__
@@ -34,10 +37,6 @@
 
 
 ### GitHub Stats
-
-<img align='right' width="300" height="512" src="./pictures/stats.gif" />
-
-![Yulypso's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulypso&show_icons=true&theme=tokyonight&custom_title=Yulypso%27s%20GitHub%20Stats&count_private=true&layout=compact)
 
 ![Yulypso's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yulypso&hide=html,css,shaderlab,makefile,objective-c,assembly,asp.net,matlab,jupyter%20notebook&langs_count=10&theme=tokyonight&layout=compact&card_width=400&custom_title=Yulypso%27s%20Most%20Used%20Languages)
 
