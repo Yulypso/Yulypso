@@ -1,4 +1,4 @@
-## Hi! Welcome to my Github!
+## Welcome to my personal Github!
 
 <p align="right">
     <a href="https://github.com/Yulypso/Yulypso/actions/workflows/root-me.yml" target="blank">
@@ -25,7 +25,7 @@
     </a>
 </p>
 
-### CTF 
+### Challenges 
 - __[18-03-2021] DEFNET 2022__: Cybersecurity challenge ✅
 - __[09-03-2022] WaveGame - WaveStone__: Challenge 1 - Pentest, Audit (__Team Rank: 6/41__) ⏳
 - __[12-05-2021] WaveGame - WaveStone__: Pentest, Forensic, Incident management (Splunk), Cloud architecture (AXS, Terraform) ✅ __Team Rank: 6/39__
@@ -39,7 +39,7 @@
 
 ![Yulypso's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulypso&show_icons=true&theme=tokyonight&custom_title=Yulypso%27s%20GitHub%20Stats&count_private=true&layout=compact)
 
-![Yulypso's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yulypso&langs_count=10&theme=tokyonight&layout=compact&card_width=400&custom_title=Yulypso%27s%20Most%20Used%20Languages)
+![Yulypso's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yulypso&hide=html,css,shaderlab,makefile,objective-c,assembly,asp.net,matlab&langs_count=10&theme=tokyonight&layout=compact&card_width=400&custom_title=Yulypso%27s%20Most%20Used%20Languages)
 
 
 <!-- to display more pin repositories :
