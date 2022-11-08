@@ -33,8 +33,8 @@
 
 ### Challenges 
 
-- __[24-06-2022] LeHack 2022__: CTF __Team Rank: 7/309_ ✅
-- __[24-06-2022] CTF - YesWeHack LeHack 2022__: CTF __rank: 6__ ✅
+- __[24-06-2022] LeHack 2022__: CTF ✅ __Team Rank: 7/309__ 
+- __[24-06-2022] CTF - YesWeHack LeHack 2022__: CTF ✅ __Rank: 6__ 
 - __[18-03-2021] DEFNET 2022__: ComCyber ✅ 
 - __[09-03-2022] WaveGame - WaveStone__: Pentest, Audit __Team Rank: 6/41__ ✅
 - __[12-05-2021] WaveGame - WaveStone__: Pentest, Forensic, Incident management (Splunk), Cloud architecture (AXS, Terraform) ✅ __Team Rank: 6/39__
