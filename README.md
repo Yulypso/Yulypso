@@ -13,7 +13,7 @@
 </p>
     
 <p align="center" width="100%">
-    <img align="center" width="747" height="420" src="./pictures/smile.gif"/>
+    <img align="center" width="600" height="336" src="./pictures/smile.gif"/>
 </p>
 
 <p align="center">
