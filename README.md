@@ -13,7 +13,7 @@
 </p>
     
 <p align="center" width="100%">
-    <img align="center" width="860" height="400" src="./pictures/yellow_trees.jpg"/>
+    <img align="center" width="747" height="420" src="./pictures/smile.gif"/>
 </p>
 
 <p align="center">
