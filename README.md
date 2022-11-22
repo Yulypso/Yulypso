@@ -41,8 +41,9 @@
 - __[23-04-2021] HeroCTF V3__: Blockchain, Crypto, Forensics, Misc, OSINT, Prog, Pwn, Reverse, Steganography, System, Web ✅ __Team Rank: 97/645__
 - __[22-03-2021] DEFNET 2021__: ComCyber ✅ __90% Completed__
 
-<!-- to display more pin repositories :
-https://github-readme-stats.vercel.app/api/pin/?username=yulypso&repo=meimo&count_private=true&theme=tokyonight&layout=compact&show_icons=true -->
+### Currently working on
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=yulypso&repo=tiny-backdoor-generator&count_private=true&theme=tokyonight&layout=compact&show_icons=true)
 
 <!--
 **Yulypso/Yulypso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
