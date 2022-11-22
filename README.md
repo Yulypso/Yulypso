@@ -43,7 +43,9 @@
 
 ### Currently working on
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=yulypso&repo=tiny-backdoor-generator&count_private=true&theme=tokyonight&layout=compact&show_icons=true)
+<a href="https://github.com/Yulypso/Tiny-Backdoor-Generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yulypso&repo=tiny-backdoor-generator&count_private=true&theme=tokyonight&layout=compact&show_icons=true" />
+</a>
 
 <!--
 **Yulypso/Yulypso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
